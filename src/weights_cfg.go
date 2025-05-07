@@ -2,6 +2,7 @@ package main
 
 
 // Defining disks weights
+
 const Big_red float64 = 25.00
 const Big_blue float64 = 20.00
 const Big_yellow float64 = 15.00
@@ -24,3 +25,5 @@ const Collars float64 = 2.50
 //weight to be lifted
 var weight float64 
 
+// sex_category
+var Sex_category string

@@ -12,7 +12,7 @@ const Small_red float64 = 2.5
 const Small_blue float64 = 2.5
 const Small_yellow float64 = 2.5
 const Small_green float64 = 2.5
-const Small_white float64 = 1.00
+const Small_white float64 = 0.50
 
 
 // Bar weights
